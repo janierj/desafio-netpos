@@ -8,5 +8,5 @@
 <small>A cobertura das classes <b>@Controller</b>, <b>@Service</b> e <b>@Repository</b> é <b>100%</b></small>
 
 <h3>Rodar o Sistema</h4>
-<p><b>$ mvnw spring-boot:run</b><p>
+<p><b>$ ./mvnw spring-boot:run</b><p>
 <p>A API esta disponível pela porta: <b>8080</b></p> 
